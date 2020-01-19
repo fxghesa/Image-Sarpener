@@ -1,0 +1,13 @@
+﻿Build started 17/08/2017 10.30.22.
+     1>Project "D:\Pengolahan Citra Digital\Projek\ConsoleApplication2\ConsoleApplication2\ConsoleApplication2.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         D:\Machine\VS 2012\VC\bin\CL.exe /c /ID:\opencv\build\include\opencv /ID:\opencv\build\include /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt Source.cpp
+         Source.cpp
+       Link:
+         D:\Machine\VS 2012\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\Pengolahan Citra Digital\Projek\ConsoleApplication2\Debug\ConsoleApplication2.exe" /INCREMENTAL /NOLOGO /LIBPATH:D:\opencv\build\x86\vc11\lib opencv_calib3d2413d.lib opencv_contrib2413d.lib opencv_core2413d.lib opencv_features2d2413d.lib opencv_flann2413d.lib opencv_gpu2413d.lib opencv_highgui2413d.lib opencv_imgproc2413d.lib opencv_legacy2413d.lib opencv_ml2413d.lib opencv_nonfree2413d.lib opencv_objdetect2413d.lib opencv_photo2413d.lib opencv_stitching2413d.lib opencv_superres2413d.lib opencv_ts2413d.lib opencv_video2413d.lib opencv_videostab2413d.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"D:\Pengolahan Citra Digital\Projek\ConsoleApplication2\Debug\ConsoleApplication2.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\Pengolahan Citra Digital\Projek\ConsoleApplication2\Debug\ConsoleApplication2.lib" /MACHINE:X86 Debug\Source.obj
+         ConsoleApplication2.vcxproj -> D:\Pengolahan Citra Digital\Projek\ConsoleApplication2\Debug\ConsoleApplication2.exe
+     1>Done Building Project "D:\Pengolahan Citra Digital\Projek\ConsoleApplication2\ConsoleApplication2\ConsoleApplication2.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:03.43
